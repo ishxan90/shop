@@ -1,0 +1,25 @@
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color: brown;
+    margin-top: 20px;
+    border-radius: 6px;
+    /* position: fixed;
+    width: 100%;
+    bottom: 0; */
+}
+
+.footer li{
+    display: inline-block;
+    padding: 25px;
+}
+
+
+.footer ul li a{
+    text-decoration: none;
+    color: rgb(177, 189, 199);
+}
+
+.footer a{
+    padding: 20px;
+}

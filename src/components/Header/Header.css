@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    height: 60px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.header .navitem ul{
+    list-style-type: none;
+    padding: 0; 
+    margin: 0; 
+}
+
+.header .navitem a{
+    text-decoration: none;
+    color: rgb(82, 122, 122);
+}
+
+
+
+
+
+

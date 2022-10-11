@@ -1,0 +1,18 @@
+*{
+    margin:0;
+}
+
+.error404{
+    background-color: rgb(228, 143, 40);
+    width: 100%; 
+}
+
+.err{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.err h1{
+    padding: 20px;
+}

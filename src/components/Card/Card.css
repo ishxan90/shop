@@ -1,0 +1,41 @@
+.sectionCard {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(189, 90, 90);
+}
+   
+.sectionCard .containerCard  {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(92, 92, 168);
+    width: 30%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    box-shadow: 5px 10px #634343;
+}
+
+.containerCard img{
+    width: 70%;
+}
+
+.sectionCard .containerCard .delBut{
+    display: flex;
+    justify-content: flex-end;  
+}
+
+.sectionCard .containerCard .delBut button{
+    border-radius: 50%;
+    border: none;
+    margin: 6px;
+}
+
+.delBut button{
+    cursor: pointer;
+}
+
+.rowCard span{
+    cursor:pointer;
+}

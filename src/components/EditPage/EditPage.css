@@ -1,0 +1,33 @@
+.sectionEd {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(209, 172, 172);
+}
+ 
+.sectionEd .containerEd  {
+    align-items: center;
+    text-align: center;
+    background-color: rgb(157, 157, 197);
+    width: 24%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    box-shadow: 5px 10px #634343;
+}
+
+.containerEd .rowEd{
+    padding: 5px;
+    color: rgb(15, 42, 65);
+}
+
+.containerEd img{
+    width: 70%;
+}
+
+.containerEd button{
+    padding: 4px;
+    color: rgb(15, 42, 65);
+    cursor: pointer;
+}
+

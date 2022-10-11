@@ -1,0 +1,8 @@
+.tutorialPage{
+    display: flex;
+}
+
+.tutorialPage h1{
+    margin: auto;
+    color: rgb(133, 165, 100);
+}

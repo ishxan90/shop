@@ -1,0 +1,13 @@
+form input {
+    padding: 12px 20px;
+    margin: 8px 0 0 20px;
+    box-sizing: border-box;
+    border: none;
+    background-color: #7bceb0;
+  }
+
+  form button{
+    padding: 12px 20px;
+    background-color:rgb(192, 135, 95);
+    margin-left: 20px;
+  } 

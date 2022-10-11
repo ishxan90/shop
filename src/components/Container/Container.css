@@ -1,0 +1,29 @@
+.container{
+    width: 350px;
+    height:100%;
+    text-align: center; 
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: rgb(52, 100, 100);
+}
+
+.container img{
+    width: 70%;
+}
+
+.container .row{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.container .navitem ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.container .navitem ul{
+    list-style-type: none;
+    padding: 0; 
+    margin: 0; 
+}
